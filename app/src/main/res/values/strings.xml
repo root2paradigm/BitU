@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BitU</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="openDrawer">Test</string>
+    <string name="closeDrawer">Test</string>
+    <string name="title_activity_branch">BranchActivity</string>
+</resources>
